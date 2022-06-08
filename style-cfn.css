@@ -192,6 +192,13 @@
             font-size: 14px; 
             color: #666;
       }
+      .carte {
+            box-sizing: border-box;
+            float: left;
+            width: 100px;
+            margin: 100px;
+
+      }
       input, textarea { 
             outline: none;
       }
