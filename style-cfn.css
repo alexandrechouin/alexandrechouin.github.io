@@ -173,6 +173,9 @@
             margin: auto;
       }
 
+      .video h2 {
+            text-align: center;
+      }
 
 /********************FAQ*******************************/
       .faq {
@@ -328,6 +331,7 @@
             background: url(media/footer.jpg);
             background-repeat: no-repeat;
             background-size: cover;
+            padding: 10px;
       }
       .menufooter {
             padding-top: 20px;
@@ -340,7 +344,6 @@
             padding: 0px;
             margin-left: 0px;
             margin-right: 0px;
-            text-align: center;
       }
       .iconereseausociaux img {
             vertical-align: middle;
@@ -348,14 +351,6 @@
             width: 15%;
       }
 
-      /*footer nav {
-            overflow: hidden;
-            position: absolute;
-            display: flex;
-            justify-content: left;
-            padding-top: 10px;
-            margin: 0;*/
-      }
       footer li {
             font-size: 1.5em;
             display: inline;
